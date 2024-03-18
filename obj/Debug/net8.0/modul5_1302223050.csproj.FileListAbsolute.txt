@@ -1,13 +1,24 @@
+<<<<<<< HEAD
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.GeneratedMSBuildEditorConfig.editorconfig
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.AssemblyInfoInputs.cache
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.AssemblyInfo.cs
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.csproj.CoreCompileInputs.cache
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.sourcelink.json
+=======
+>>>>>>> implementasi-generic-class
 D:\1\modul5_1302223050\modul5_1302223050\bin\Debug\net8.0\modul5_1302223050.exe
 D:\1\modul5_1302223050\modul5_1302223050\bin\Debug\net8.0\modul5_1302223050.deps.json
 D:\1\modul5_1302223050\modul5_1302223050\bin\Debug\net8.0\modul5_1302223050.runtimeconfig.json
 D:\1\modul5_1302223050\modul5_1302223050\bin\Debug\net8.0\modul5_1302223050.dll
 D:\1\modul5_1302223050\modul5_1302223050\bin\Debug\net8.0\modul5_1302223050.pdb
+<<<<<<< HEAD
+=======
+D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.AssemblyInfoInputs.cache
+D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.AssemblyInfo.cs
+D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.csproj.CoreCompileInputs.cache
+D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.sourcelink.json
+>>>>>>> implementasi-generic-class
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.dll
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\refint\modul5_1302223050.dll
 D:\1\modul5_1302223050\modul5_1302223050\obj\Debug\net8.0\modul5_1302223050.pdb
